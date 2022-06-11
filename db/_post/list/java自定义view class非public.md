@@ -1,0 +1,5 @@
+HSItemBlockView java自定义view class非public下可以使用，但是布局IDE会无法提示。kotlin 默认class是public，java要注意一下。
+
+
+
+在add多个view时，使用addView每次都会requestLayout，使用addViewInLayout可以减少*requestLayout。*

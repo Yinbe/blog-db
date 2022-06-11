@@ -1,0 +1,3 @@
+产生这个问题的原因是因为官方不推荐使用mipsel-linux-android了,所以gradle没有支持,但是旧版本的项目编译无法通过
+
+gradle plugin直接升级到3.1.3以上重新编译即可
