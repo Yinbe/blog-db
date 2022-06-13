@@ -6,5 +6,3 @@ deubg 包发现无法安装，提示无法解析，使用 [adb](https://so.csdn.
 android.injected.testOnly=false
 解决方法二，加 -t ：　　
 adb install -t app-debug.apk
-
-tt
