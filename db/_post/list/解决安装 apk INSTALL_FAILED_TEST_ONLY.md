@@ -8,3 +8,5 @@ android.injected.testOnly=false
 adb install -t app-debug.apk
 
 dd
+
+ss
