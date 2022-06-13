@@ -10,3 +10,5 @@ adb install -t app-debug.apk
 dd
 
 ss
+
+ss
