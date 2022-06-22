@@ -7,4 +7,4 @@ android.injected.testOnly=false
 解决方法二，加 -t ：　　
 adb install -t app-debug.apk
 
-![](![]()https://raw.githubusercontent.com/Yinbe/blog-db/main/db/images/1616385421198.svg)
+![](https://raw.githubusercontent.com/Yinbe/blog-db/main/db/images/1616385421198.svg)
