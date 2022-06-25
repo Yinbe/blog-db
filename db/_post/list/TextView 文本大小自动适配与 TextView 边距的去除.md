@@ -124,7 +124,7 @@ Demo 如下：
 右侧的 LinearLayout 中需要包含 2 个文本 一个 14sp 一个是 30sp，同时居中但是要金额的文本自动适配大小。
 
 ```
-            <LinearLayout      
+            <LinearLayout    
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="@dimen/d_15dp"
@@ -273,7 +273,7 @@ public class NoPaddingTextView extends AppCompatTextView {
 使用：
 
 ```
-            <LinearLayout         
+            <LinearLayout       
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="@dimen/d_15dp"
