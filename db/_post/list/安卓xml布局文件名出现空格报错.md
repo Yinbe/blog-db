@@ -1,6 +1,6 @@
 **报错信息** ：The layout in layout has no declaration in the base layout folder; this can lead to crashes when the resource is queried in a [configuration](https://so.csdn.net/so/search?q=configuration&spm=1001.2101.3001.7020) that does not match this qualifier
 
-**位置** ：[xml](https://so.csdn.net/so/search?q=xml&spm=1001.2101.3001.7020) 的根布局
+**位置** ：xml 的根布局
 
 **我的项目是** tv 项目，res 下有 layout（默认布局）、layout_land（横屏）、layout_port（竖屏）
 
