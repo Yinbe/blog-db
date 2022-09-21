@@ -8,5 +8,4 @@
 
 如果还是解决不了参考 Stack Overflow 的这篇：[https://stackoverflow.com/questions/52547657/the-layout-layout-in-layout-has-no-declaration-in-the-base-layout-folder-erro](https://stackoverflow.com/questions/52547657/the-layout-layout-in-layout-has-no-declaration-in-the-base-layout-folder-erro)
 
-
 上面是查搜索引擎，检查过没有类似的。后来发现xml文件名称有空格导致的。android studio 居然没有校验
