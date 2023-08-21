@@ -1,4 +1,4 @@
-flutter: SliverGeometry is not valid: The "layoutExtent" exceeds the "paintExtent". 
+flutter: SliverGeometry is not valid: The "layoutExtent" exceeds the "paintExtent".
 
 原因一:
 如果出现这个问题, 应该是 SliverPersistentHeaderDelegate 返回的 Widget 中有子 Widget 高度设置不正确.
